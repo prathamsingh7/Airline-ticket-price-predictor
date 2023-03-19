@@ -1,0 +1,22 @@
+Origin,Destination,Company,Departure Time,Arrival Time,Duration Time,Flight Price,Date,Cabin Class
+BOM,CCU,Vistara ,07:00,09:40,2h 40m,"7,247",28-08-2022,Economy
+BOM,CCU,IndiGo ,07:50,10:20,2h 30m,"7,413",28-08-2022,Economy
+BOM,CCU,IndiGo ,06:25,09:10,2h 45m,"6,888",28-08-2022,Economy
+BOM,CCU,IndiGo ,09:50,12:25,2h 35m,"7,413",28-08-2022,Economy
+BOM,CCU,Air India ,06:00,08:50,2h 50m,"7,413",28-08-2022,Economy
+BOM,CCU,IndiGo ,12:55,15:40,2h 45m,"7,413",28-08-2022,Economy
+BOM,CCU,Vistara ,14:05,16:55,2h 50m,"7,802",28-08-2022,Economy
+CCU,BOM,IndiGo ,19:05,21:40,2h 35m,"7,977",28-08-2022,Economy
+CCU,BOM,Vistara ,20:35,23:30,2h 55m,"7,811",28-08-2022,Economy
+CCU,BOM,IndiGo ,17:40,20:20,2h 40m,"8,292",28-08-2022,Economy
+CCU,BOM,Air India ,17:15,20:15,3h,"7,977",28-08-2022,Economy
+CCU,BOM,Vistara ,17:35,20:20,2h 45m,"8,920",28-08-2022,Economy
+CCU,BOM,IndiGo ,15:40,18:20,2h 40m,"8,922",28-08-2022,Economy
+CCU,BOM,Vistara ,10:25,13:00,2h 35m,"8,366",28-08-2022,Economy
+CCU,BOM,Air India ,09:25,12:20,2h 55m,"7,977",28-08-2022,Economy
+CCU,BOM,IndiGo ,09:45,12:30,2h 45m,"8,292",28-08-2022,Economy
+BOM,CCU,IndiGo ,22:40,01:15,2h 35m,"6,888",28-08-2022,Economy
+BOM,CCU,IndiGo ,17:35,20:10,2h 35m,"6,888",28-08-2022,Economy
+BOM,CCU,IndiGo ,19:45,22:30,2h 45m,"6,888",28-08-2022,Economy
+BOM,CCU,Vistara ,17:20,19:55,2h 35m,"7,802",28-08-2022,Economy
+BOM,CCU,Air India ,21:05,23:50,2h 45m,"7,413",28-08-2022,Economy
