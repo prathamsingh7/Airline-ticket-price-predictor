@@ -12,11 +12,11 @@ has a set number of seats to sell, so airlines have to regulate
 demand. 
 
 # Objective of this project
-->  To study the factors which influence the fluctuations in the
+-  To study the factors which influence the fluctuations in the
 airfare prices and how they are related to the change in the
 prices. 
 
--> The observations made in this paper will help the buyersto plan
+- The observations made in this paper will help the buyersto plan
 their journey in a smart and cost-effecient manner. The
 passengers will know when to travel, which airline to travel with
 and what part of the day to travel so as to make it a pocket
@@ -28,13 +28,13 @@ I have extracted the data from [Aertrip](https://aertrip.com/v2/flights) using *
 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?select=Clean_Dataset.csv).
 
 # Techstack Used
--> ***Selenium*** for web scraping. 
+- ***Selenium*** for web scraping. 
 
--> ***Numpy***, ***Pandas*** for data pre-processing/manipulation.
+- ***Numpy***, ***Pandas*** for data pre-processing/manipulation.
 
--> ***Matplot***, ***Seaborn*** for data visualization.
+- ***Matplot***, ***Seaborn*** for data visualization.
 
--> ***Sklearn*** for ML model library.
+- ***Sklearn*** for ML model library.
 # Flowchart
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Airline-ticket-price-predictor/main/flowchart.png">
