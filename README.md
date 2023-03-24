@@ -1,5 +1,7 @@
 # Problem statement
-![](/intro.png)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Airline-ticket-price-predictor/main/intro.png">
+</p>
 
 Anyone who has booked a flight ticket knows how
 unexpectedly the prices vary. The cheapest available ticket on a
@@ -34,4 +36,6 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/shubhambath
 
 -> ***Sklearn*** for ML model library.
 # Flowchart
-![](/flowchart.png)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Airline-ticket-price-predictor/main/flowchart.png">
+</p>
