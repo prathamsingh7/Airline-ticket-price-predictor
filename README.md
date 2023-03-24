@@ -1,7 +1,8 @@
-# Airline-ticket-dynamic-pricing
-
-The primary goal of this project is to use historical data, analyze it and build machine-learning models to predict the prices for upcoming airline tickets.
-
-Used Selenium for web-scraping and then pre-processed data.
-Analysed the data using various data visualization techniques and prepare the data for training.
-Trained the data on various machine learning models and achieved 97\% accuracy.
+Problem statement: 
+Anyone who has booked a flight ticket knows how
+unexpectedly the prices vary. The cheapest available ticket on a
+given flight gets more and less expensive over time.  Airlines implement dynamic pricing for their tickets and base
+their pricing decisions on demand estimation models. The
+reason for such a complicated system is that each flight only
+has a set number of seats to sell, so airlines have to regulate
+demand. 
