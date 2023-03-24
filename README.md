@@ -1,4 +1,6 @@
 # Problem statement
+![](/intro.png)
+
 Anyone who has booked a flight ticket knows how
 unexpectedly the prices vary. The cheapest available ticket on a
 given flight gets more and less expensive over time.  Airlines implement dynamic pricing for their tickets and base
@@ -32,4 +34,4 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/shubhambath
 
 -> ***Sklearn*** for ML model library.
 # Flowchart
-
+![](/flowchart.png)
